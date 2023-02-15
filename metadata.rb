@@ -1,1 +1,1 @@
-name "opsworks_cca640assignmentbmitchell"
+name "opsworks_cca640"
